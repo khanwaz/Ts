@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khanwaz/Ts/issues"
   },
-  "homepage": "https://github.com/khanwaz/Ts#readme"
+  "homepage": "https://github.com/khanwaz/Ts#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
 }
